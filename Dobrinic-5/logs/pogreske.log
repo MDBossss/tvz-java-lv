@@ -1,0 +1,850 @@
+2022-11-01 11:09:00,249 INFO [main] h.j.v.g.Glavna [Glavna.java:30] Pocetak programa
+2022-11-01 11:10:41,621 INFO [main] h.j.v.g.Glavna [Glavna.java:30] Pocetak programa
+2022-11-01 11:11:45,749 INFO [main] h.j.v.g.Glavna [Glavna.java:30] Pocetak programa
+2022-11-01 11:12:25,980 INFO [main] h.j.v.g.Glavna [Glavna.java:30] Pocetak programa
+2022-11-01 11:15:08,754 ERROR [main] h.j.v.i.NemoguceOdreditiProsjekStudentaException [NemoguceOdreditiProsjekStudentaException.java:16] Ucenik Ivana ivanovic ima ocjenu nedovoljan iz predmeta predmet 1
+2022-11-01 11:22:30,996 INFO [main] h.j.v.g.Glavna [Glavna.java:30] Pocetak programa
+2022-11-01 11:22:50,084 INFO [main] h.j.v.g.Glavna [Glavna.java:30] Pocetak programa
+2022-11-01 11:23:08,461 ERROR [main] h.j.v.i.NemoguceOdreditiProsjekStudentaException [NemoguceOdreditiProsjekStudentaException.java:16] Ucenik ivana ivanovic ima ocjenu nedovoljan iz predmeta predmet 1
+2022-11-01 11:45:39,528 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Pocetak programa
+2022-11-01 11:45:43,262 ERROR [main] h.j.v.i.NemoguceOdreditiProsjekStudentaException [NemoguceOdreditiProsjekStudentaException.java:16] Ucenik ivana ivanovic ima ocjenu nedovoljan iz predmeta predmet 1
+2022-11-01 11:51:34,060 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Pocetak programa
+2022-11-01 11:51:39,722 ERROR [main] h.j.v.g.Glavna [Glavna.java:391] null
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:943)
+	at java.base/java.util.Scanner.next(Scanner.java:1598)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2263)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2217)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:384)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:33)
+2022-11-01 11:54:43,409 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Pocetak programa
+2022-11-21 11:01:38,976 INFO [main] h.j.v.g.Glavna [Glavna.java:38] Pocetak programa
+2022-11-21 12:44:40,939 INFO [main] h.j.v.g.Glavna [Glavna.java:37] Pocetak programa
+2022-11-21 14:41:26,897 INFO [main] h.j.v.g.Glavna [Glavna.java:37] Pocetak programa
+2022-11-21 14:41:26,923 ERROR [main] h.j.v.g.Glavna [Glavna.java:112] null
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:943)
+	at java.base/java.util.Scanner.next(Scanner.java:1598)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2263)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2217)
+	at hr.java.vjezbe.glavna.Glavna.unesiPredmet(Glavna.java:104)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:317)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:41:26,925 ERROR [main] h.j.v.g.Glavna [Glavna.java:112] null
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:943)
+	at java.base/java.util.Scanner.next(Scanner.java:1598)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2263)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2217)
+	at hr.java.vjezbe.glavna.Glavna.unesiPredmet(Glavna.java:104)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:317)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:41:26,926 ERROR [main] h.j.v.g.Glavna [Glavna.java:128] null
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:943)
+	at java.base/java.util.Scanner.next(Scanner.java:1598)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2263)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2217)
+	at hr.java.vjezbe.glavna.Glavna.unesiPredmet(Glavna.java:121)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:317)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:41:26,926 ERROR [main] h.j.v.g.Glavna [Glavna.java:128] null
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:943)
+	at java.base/java.util.Scanner.next(Scanner.java:1598)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2263)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2217)
+	at hr.java.vjezbe.glavna.Glavna.unesiPredmet(Glavna.java:121)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:317)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:41:26,929 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '6' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:41:26,929 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '2' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:41:26,930 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '3' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:41:26,930 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text 'ivo' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:41:26,930 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text 'asistent' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:41:26,930 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '1' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:41:26,931 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text 'ivan' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:41:26,931 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text 'asistent' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:41:26,931 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '2' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:41:26,932 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text 'pero' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:41:26,932 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text 'asistent' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:41:26,932 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '3' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:41:26,932 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text 'ivana' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:41:26,933 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text 'ivanovic' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:41:26,944 ERROR [main] h.j.v.g.Glavna [Glavna.java:430] Student ima jedinicu i nema ocjena zavrsnog rada!
+2022-11-21 14:43:37,784 INFO [main] h.j.v.g.Glavna [Glavna.java:37] Pocetak programa
+2022-11-21 14:43:37,802 ERROR [main] h.j.v.g.Glavna [Glavna.java:128] null
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:943)
+	at java.base/java.util.Scanner.next(Scanner.java:1598)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2263)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2217)
+	at hr.java.vjezbe.glavna.Glavna.unesiPredmet(Glavna.java:121)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:317)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:37,804 ERROR [main] h.j.v.g.Glavna [Glavna.java:128] null
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:943)
+	at java.base/java.util.Scanner.next(Scanner.java:1598)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2263)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2217)
+	at hr.java.vjezbe.glavna.Glavna.unesiPredmet(Glavna.java:121)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:317)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:37,806 ERROR [main] h.j.v.g.Glavna [Glavna.java:88] Neispravno unesena vrijednost!
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:943)
+	at java.base/java.util.Scanner.next(Scanner.java:1598)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2263)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2217)
+	at hr.java.vjezbe.glavna.Glavna.unesiPredmet(Glavna.java:82)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:317)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:37,806 ERROR [main] h.j.v.g.Glavna [Glavna.java:88] Neispravno unesena vrijednost!
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:943)
+	at java.base/java.util.Scanner.next(Scanner.java:1598)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2263)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2217)
+	at hr.java.vjezbe.glavna.Glavna.unesiPredmet(Glavna.java:82)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:317)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:37,807 ERROR [main] h.j.v.g.Glavna [Glavna.java:112] null
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:943)
+	at java.base/java.util.Scanner.next(Scanner.java:1598)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2263)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2217)
+	at hr.java.vjezbe.glavna.Glavna.unesiPredmet(Glavna.java:104)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:317)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:37,807 ERROR [main] h.j.v.g.Glavna [Glavna.java:112] null
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:943)
+	at java.base/java.util.Scanner.next(Scanner.java:1598)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2263)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2217)
+	at hr.java.vjezbe.glavna.Glavna.unesiPredmet(Glavna.java:104)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:317)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:37,808 ERROR [main] h.j.v.g.Glavna [Glavna.java:112] null
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:943)
+	at java.base/java.util.Scanner.next(Scanner.java:1598)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2263)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2217)
+	at hr.java.vjezbe.glavna.Glavna.unesiPredmet(Glavna.java:104)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:317)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:37,810 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text 'mala' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:37,811 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '1' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:37,811 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '22.02.2003T18:00' could not be parsed at index 10
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:37,811 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '2' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:37,812 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '2' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:37,812 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text 'mala' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:37,812 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text 'mala' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:37,812 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '5' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:37,813 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '22.02.2003T17:00' could not be parsed at index 10
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:37,813 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '1' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:37,813 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text 'javarska' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:37,813 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '5' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:37,814 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '5' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:37,814 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '4' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:37,815 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '2' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:37,815 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '3' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:50,852 INFO [main] h.j.v.g.Glavna [Glavna.java:37] Pocetak programa
+2022-11-21 14:43:50,913 ERROR [main] h.j.v.g.Glavna [Glavna.java:128] null
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:943)
+	at java.base/java.util.Scanner.next(Scanner.java:1598)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2263)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2217)
+	at hr.java.vjezbe.glavna.Glavna.unesiPredmet(Glavna.java:121)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:317)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:50,917 ERROR [main] h.j.v.g.Glavna [Glavna.java:128] null
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:943)
+	at java.base/java.util.Scanner.next(Scanner.java:1598)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2263)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2217)
+	at hr.java.vjezbe.glavna.Glavna.unesiPredmet(Glavna.java:121)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:317)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:50,919 ERROR [main] h.j.v.g.Glavna [Glavna.java:88] Neispravno unesena vrijednost!
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:943)
+	at java.base/java.util.Scanner.next(Scanner.java:1598)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2263)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2217)
+	at hr.java.vjezbe.glavna.Glavna.unesiPredmet(Glavna.java:82)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:317)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:50,919 ERROR [main] h.j.v.g.Glavna [Glavna.java:88] Neispravno unesena vrijednost!
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:943)
+	at java.base/java.util.Scanner.next(Scanner.java:1598)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2263)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2217)
+	at hr.java.vjezbe.glavna.Glavna.unesiPredmet(Glavna.java:82)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:317)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:50,920 ERROR [main] h.j.v.g.Glavna [Glavna.java:112] null
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:943)
+	at java.base/java.util.Scanner.next(Scanner.java:1598)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2263)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2217)
+	at hr.java.vjezbe.glavna.Glavna.unesiPredmet(Glavna.java:104)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:317)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:50,920 ERROR [main] h.j.v.g.Glavna [Glavna.java:112] null
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:943)
+	at java.base/java.util.Scanner.next(Scanner.java:1598)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2263)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2217)
+	at hr.java.vjezbe.glavna.Glavna.unesiPredmet(Glavna.java:104)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:317)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:50,921 ERROR [main] h.j.v.g.Glavna [Glavna.java:112] null
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:943)
+	at java.base/java.util.Scanner.next(Scanner.java:1598)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2263)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2217)
+	at hr.java.vjezbe.glavna.Glavna.unesiPredmet(Glavna.java:104)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:317)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:50,923 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text 'mala' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:50,924 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '1' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:50,924 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '22.02.2003T18:00' could not be parsed at index 10
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:50,925 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '2' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:50,925 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '2' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:50,926 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text 'mala' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:50,926 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text 'mala' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:50,926 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '5' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:50,927 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '22.02.2003T17:00' could not be parsed at index 10
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:50,927 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '1' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:50,927 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text 'javarska' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:50,928 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '5' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:50,928 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '5' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:50,928 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '4' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:50,929 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '2' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:50,929 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '3' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:58,568 INFO [main] h.j.v.g.Glavna [Glavna.java:37] Pocetak programa
+2022-11-21 14:43:58,588 ERROR [main] h.j.v.g.Glavna [Glavna.java:128] null
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:943)
+	at java.base/java.util.Scanner.next(Scanner.java:1598)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2263)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2217)
+	at hr.java.vjezbe.glavna.Glavna.unesiPredmet(Glavna.java:121)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:317)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:58,591 ERROR [main] h.j.v.g.Glavna [Glavna.java:128] null
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:943)
+	at java.base/java.util.Scanner.next(Scanner.java:1598)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2263)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2217)
+	at hr.java.vjezbe.glavna.Glavna.unesiPredmet(Glavna.java:121)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:317)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:58,593 ERROR [main] h.j.v.g.Glavna [Glavna.java:88] Neispravno unesena vrijednost!
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:943)
+	at java.base/java.util.Scanner.next(Scanner.java:1598)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2263)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2217)
+	at hr.java.vjezbe.glavna.Glavna.unesiPredmet(Glavna.java:82)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:317)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:58,593 ERROR [main] h.j.v.g.Glavna [Glavna.java:88] Neispravno unesena vrijednost!
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:943)
+	at java.base/java.util.Scanner.next(Scanner.java:1598)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2263)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2217)
+	at hr.java.vjezbe.glavna.Glavna.unesiPredmet(Glavna.java:82)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:317)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:58,594 ERROR [main] h.j.v.g.Glavna [Glavna.java:112] null
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:943)
+	at java.base/java.util.Scanner.next(Scanner.java:1598)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2263)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2217)
+	at hr.java.vjezbe.glavna.Glavna.unesiPredmet(Glavna.java:104)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:317)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:58,594 ERROR [main] h.j.v.g.Glavna [Glavna.java:112] null
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:943)
+	at java.base/java.util.Scanner.next(Scanner.java:1598)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2263)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2217)
+	at hr.java.vjezbe.glavna.Glavna.unesiPredmet(Glavna.java:104)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:317)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:58,595 ERROR [main] h.j.v.g.Glavna [Glavna.java:112] null
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:943)
+	at java.base/java.util.Scanner.next(Scanner.java:1598)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2263)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2217)
+	at hr.java.vjezbe.glavna.Glavna.unesiPredmet(Glavna.java:104)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:317)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:58,597 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text 'mala' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:58,597 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '1' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:58,598 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '22.02.2003T18:00' could not be parsed at index 10
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:58,598 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '2' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:58,598 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '2' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:58,598 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text 'mala' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:58,599 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text 'mala' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:58,599 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '5' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:58,599 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '22.02.2003T17:00' could not be parsed at index 10
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:58,600 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '1' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:58,600 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text 'javarska' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:58,600 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '5' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:58,600 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '5' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:58,601 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '4' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:58,601 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '2' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:43:58,601 ERROR [main] h.j.v.g.Glavna [Glavna.java:159] Neispravno upisan datum!
+java.time.format.DateTimeParseException: Text '3' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2106)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2008)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:154)
+	at hr.java.vjezbe.glavna.Glavna.unesiObrazovnuUstanovu(Glavna.java:322)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:421)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:39)
+2022-11-21 14:44:01,643 INFO [main] h.j.v.g.Glavna [Glavna.java:37] Pocetak programa
+2022-11-21 14:44:36,765 INFO [main] h.j.v.g.Glavna [Glavna.java:37] Pocetak programa
+2022-11-21 14:45:48,350 INFO [main] h.j.v.g.Glavna [Glavna.java:37] Pocetak programa
+2022-11-21 14:47:43,527 ERROR [main] h.j.v.g.Glavna [Glavna.java:413] Student ima jedinicu i nema ocjena zavrsnog rada!
+2022-11-21 14:50:06,341 INFO [main] h.j.v.g.Glavna [Glavna.java:37] Pocetak programa
+2022-11-21 15:33:38,484 INFO [main] h.j.v.g.Glavna [Glavna.java:37] Pocetak programa
+2022-11-21 15:36:23,877 INFO [main] h.j.v.g.Glavna [Glavna.java:37] Pocetak programa
+2022-11-21 15:37:53,618 INFO [main] h.j.v.g.Glavna [Glavna.java:37] Pocetak programa
+2022-11-21 15:38:27,500 INFO [main] h.j.v.g.Glavna [Glavna.java:37] Pocetak programa
+2022-11-21 15:40:20,635 INFO [main] h.j.v.g.Glavna [Glavna.java:37] Pocetak programa
+2022-11-21 15:43:07,230 INFO [main] h.j.v.g.Glavna [Glavna.java:37] Pocetak programa
+2022-11-21 15:47:48,520 INFO [main] h.j.v.g.Glavna [Glavna.java:37] Pocetak programa
+2022-11-21 15:49:13,404 INFO [main] h.j.v.g.Glavna [Glavna.java:37] Pocetak programa
+2022-11-21 16:53:18,898 INFO [main] h.j.v.g.Glavna [Glavna.java:37] Pocetak programa
+2022-11-21 16:57:17,637 INFO [main] h.j.v.g.Glavna [Glavna.java:37] Pocetak programa

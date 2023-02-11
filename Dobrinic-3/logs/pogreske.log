@@ -1,0 +1,20 @@
+2022-11-01 11:09:00,249 INFO [main] h.j.v.g.Glavna [Glavna.java:30] Pocetak programa
+2022-11-01 11:10:41,621 INFO [main] h.j.v.g.Glavna [Glavna.java:30] Pocetak programa
+2022-11-01 11:11:45,749 INFO [main] h.j.v.g.Glavna [Glavna.java:30] Pocetak programa
+2022-11-01 11:12:25,980 INFO [main] h.j.v.g.Glavna [Glavna.java:30] Pocetak programa
+2022-11-01 11:15:08,754 ERROR [main] h.j.v.i.NemoguceOdreditiProsjekStudentaException [NemoguceOdreditiProsjekStudentaException.java:16] Ucenik Ivana ivanovic ima ocjenu nedovoljan iz predmeta predmet 1
+2022-11-01 11:22:30,996 INFO [main] h.j.v.g.Glavna [Glavna.java:30] Pocetak programa
+2022-11-01 11:22:50,084 INFO [main] h.j.v.g.Glavna [Glavna.java:30] Pocetak programa
+2022-11-01 11:23:08,461 ERROR [main] h.j.v.i.NemoguceOdreditiProsjekStudentaException [NemoguceOdreditiProsjekStudentaException.java:16] Ucenik ivana ivanovic ima ocjenu nedovoljan iz predmeta predmet 1
+2022-11-01 11:45:39,528 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Pocetak programa
+2022-11-01 11:45:43,262 ERROR [main] h.j.v.i.NemoguceOdreditiProsjekStudentaException [NemoguceOdreditiProsjekStudentaException.java:16] Ucenik ivana ivanovic ima ocjenu nedovoljan iz predmeta predmet 1
+2022-11-01 11:51:34,060 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Pocetak programa
+2022-11-01 11:51:39,722 ERROR [main] h.j.v.g.Glavna [Glavna.java:391] null
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:943)
+	at java.base/java.util.Scanner.next(Scanner.java:1598)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2263)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2217)
+	at hr.java.vjezbe.glavna.Glavna.drugaVjezba(Glavna.java:384)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:33)
+2022-11-01 11:54:43,409 INFO [main] h.j.v.g.Glavna [Glavna.java:31] Pocetak programa

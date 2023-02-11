@@ -1,0 +1,68 @@
+.button{
+    -fx-font: bold 24 Arial;
+    -fx-alignment: center;
+    -fx-text-fill: #c8c8c8;
+    -fx-effect: dropshadow(gaussian,rgba(0,0,0,0.35),15,0,0,0);
+    -fx-background-color: #fff;
+    -fx-background-radius: 10px;
+    -fx-cursor: hand;
+}
+
+.button:hover{
+    -fx-underline: true;
+    -fx-text-fill: #F2454B;
+}
+
+.text-field {
+    -fx-font: bold 12 Arial;
+    -fx-padding: 5px;
+    -fx-border-color: #c8c8c8;
+    -fx-border-width: 0 0 2 0;
+    -fx-background-color: transparent;
+    -fx-background-radius: 0;
+    -fx-text-alignment: left;
+    -fx-alignment: center-left ;
+
+}
+
+.text-field:empty{
+    -fx-font-style: italic;
+}
+
+.text-field:focused{
+    -fx-border-color: #F2454B;
+}
+
+.label{
+    -fx-font: bold 13 Arial;
+}
+
+.check-box{
+    -fx-font: bold 12 Arial;
+}
+
+.check-box .box{
+    -fx-background-color: #f4f4f4;
+    -fx-border-color: #c8c8c8;
+}
+
+.check-box:selected .box{
+    -fx-background-color: #F2545B;
+}
+
+.check-box:selected .mark{
+    -fx-background-color: #fff;
+}
+
+.choice-box{
+    -fx-background-color: #f4f4f4;
+    -fx-border-color: #c8c8c8;
+}
+
+.combo-box .arrow-button{
+    -fx-background-color: #c8c8c8;
+}
+
+.combo-box .arrow{
+    -fx-background-color: #c8c8c8;
+}

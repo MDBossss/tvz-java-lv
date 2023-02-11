@@ -1,0 +1,88 @@
+package hr.java.vjezbe;
+
+import hr.java.vjezbe.baza.BazaPodataka;
+import hr.java.vjezbe.entitet.Profesor;
+import hr.java.vjezbe.entitet.Student;
+import hr.java.vjezbe.iznimke.BazaPodatakaException;
+import hr.java.vjezbe.util.Datoteke;
+import javafx.beans.property.SimpleStringProperty;
+import javafx.collections.FXCollections;
+import javafx.fxml.FXML;
+import javafx.scene.control.*;
+
+import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
+import java.util.List;
+import java.util.Map;
+
+public class PretrazivanjeStudenataController {
+
+    @FXML
+    private TextField imeStudentaTextField;
+    @FXML
+    private TextField prezimeStudentaTextField;
+    @FXML
+    private TextField jmbagStudentaTextField;
+    @FXML
+    private DatePicker datumRodenjaStudentaDatePicker;
+    @FXML
+    private TableView<Student> studentTableView;
+
+    @FXML
+    private TableColumn<Student,String> jmbagStudentaTableColumn;
+
+    @FXML
+    private TableColumn<Student,String> imeStudentaTableColumn;
+
+    @FXML
+    private TableColumn<Student,String> prezimeStudentaTableColumn;
+
+    @FXML
+    private TableColumn<Student,String> datumRodenjaStudentaTableColumn;
+
+    private List<Student> studentiList;
+
+    public void initialize(){
+        try{
+            Map<Long,Student> studentiMap = BazaPodataka.getStudenti();
+            studentiList = studentiMap.values().stream().toList();
+        }catch(BazaPodatakaException e){
+            e.printStackTrace();
+        }
+
+
+        jmbagStudentaTableColumn.setCellValueFactory(cellData -> new SimpleStringProperty(cellData.getValue().getJmbag()));
+        imeStudentaTableColumn.setCellValueFactory(cellData -> new SimpleStringProperty(cellData.getValue().getIme()));
+        prezimeStudentaTableColumn.setCellValueFactory(cellData -> new SimpleStringProperty(cellData.getValue().getPrezime()));
+        datumRodenjaStudentaTableColumn.setCellValueFactory(cellData -> {
+            SimpleStringProperty property = new SimpleStringProperty();
+            DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd.MM.yyyy");
+            property.setValue(cellData.getValue().getDatumRodenja().format(formatter));
+            return property;
+        });
+
+        studentTableView.setItems(FXCollections.observableList(studentiList));
+    }
+
+    public void filtrirajStudente(){
+        String ime = imeStudentaTextField.getText();
+        String prezime = prezimeStudentaTextField.getText();
+        String jmbag = jmbagStudentaTextField.getText();
+        LocalDate datum = datumRodenjaStudentaDatePicker.getValue();
+
+        if(ime.isEmpty())
+            ime = null;
+        if(prezime.isEmpty())
+            prezime = null;
+        if(jmbag.isEmpty())
+            jmbag = null;
+
+        try{
+            studentTableView.setItems(FXCollections.observableList(BazaPodataka.getFilteredStudenti(new Student(null,ime,prezime,jmbag,datum)).values().stream().toList()));
+        }catch(BazaPodatakaException e){
+            e.printStackTrace();
+        }
+
+    }
+
+}

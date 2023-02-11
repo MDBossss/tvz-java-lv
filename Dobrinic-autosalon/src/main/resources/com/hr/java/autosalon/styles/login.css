@@ -1,0 +1,58 @@
+.text-field {
+    -fx-font: bold 12 Arial;
+    -fx-padding: 5px;
+    -fx-border-color: #c8c8c8;
+    -fx-border-width: 0 0 2 0;
+    -fx-background-color: transparent;
+    -fx-background-radius: 0;
+    -fx-text-alignment: left;
+    -fx-alignment: center-left ;
+
+}
+
+.text-field:empty{
+    -fx-font-style: italic;
+}
+
+.text-field:focused{
+    -fx-border-color: #F2454B;
+}
+
+
+.password-field {
+    -fx-font: bold 12 Arial;
+    -fx-padding: 5px;
+    -fx-border-color: #c8c8c8;
+    -fx-border-width: 0 0 2 0;
+    -fx-background-color: transparent;
+    -fx-background-radius: 0;
+    -fx-text-alignment: left;
+    -fx-alignment: center-left ;
+
+}
+
+.password-field:empty{
+    -fx-font-style: italic;
+}
+
+.password-field:focused{
+    -fx-border-color: #F2454B;
+}
+
+.button{
+    -fx-background-color: #F2545B;
+    -fx-effect: dropshadow(gaussian,rgba(0,0,0,0.35),15,0,0,0);
+}
+
+.button:hover{
+    -fx-cursor: hand;
+    -fx-background-color: #A93F55;
+}
+
+.label{
+    -fx-effect: dropshadow(gaussian,rgba(0,0,0,0.35),15,0,0,0);
+}
+
+.image-view{
+    -fx-effect: dropshadow(gaussian,rgba(0,0,0,0.35),15,0,0,0);
+}

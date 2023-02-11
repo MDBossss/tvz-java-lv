@@ -1,0 +1,81 @@
+.table-view{
+    -fx-background-color: #FFF;
+    -fx-background-radius: 10px;
+    -fx-effect: dropshadow(gaussian,rgba(0,0,0,0.35),15,0,0,0);
+    -fx-selection-bar: #F2545B;
+    -fx-selection-bar-non-focused: #F2545B;
+}
+
+.table-view:focused .table-row-cell:selected{
+    -fx-background-color: #c8c8c8;
+}
+
+.table-view .column-header-background{
+    -fx-border-style: hidden solid solid hidden;
+    -fx-border-width: 2px;
+    -fx-background-color: transparent;
+    -fx-border-color: #f4f4f4;
+}
+
+.table-view .column-header{
+    -fx-border-style: hidden solid hidden hidden;
+    -fx-border-width: 2px;
+    -fx-background-color: transparent;
+    -fx-border-color: #f4f4f4;
+}
+
+#first-left-column{
+    -fx-background-radius: 10px 0 0 0;
+    -fx-border-style: hidden solid hidden hidden !important;
+    -fx-border-width: 2px;
+    -fx-border-color: #f4f4f4;
+}
+
+#last-right-column{
+    -fx-background-radius: 0 10px 0 0;
+    -fx-border-style: hidden hidden hidden solid !important;
+    -fx-border-width: 0px;
+    -fx-border-color: red;
+}
+
+
+
+
+.table-view .column-header{
+    -fx-background-color: transparent;
+}
+
+.table-view .table-cell{
+    -fx-border-color: transparent;
+    -fx-padding: 2 0 2 10px;
+}
+.table-row-cell:hover {
+    -fx-background-color: #93f9b911;
+    -fx-text-background-color: #F2545B;
+}
+.table-row-cell:odd{
+    -fx-background-color: #F4F4F4;
+    -fx-background-insets: 0, 0 0 1 0;
+    -fx-padding: 0.0em;
+}
+.table-row-cell:even{
+    -fx-background-color: #FFF;
+    -fx-background-insets: 0, 0 0 1 0;
+    -fx-padding: 0.0em;
+}
+
+.table-view .virtual-flow .scroll-bar:vertical,
+.table-view .virtual-flow .scroll-bar:vertical .track,
+.table-view .virtual-flow .scroll-bar:vertical .track-background,
+.table-view .virtual-flow .scroll-bar:horizontal,
+.table-view .virtual-flow .scroll-bar:horizontal .track,
+.table-view .virtual-flow .scroll-bar:horizontal .track-background {
+    -fx-background-color: transparent;
+}
+
+.table-view .virtual-flow .scroll-bar:vertical .thumb{
+    -fx-background-color:  #f2545b;
+}
+.table-view .virtual-flow .scroll-bar:horizontal .thumb {
+    -fx-background-color:  #f2545b;
+}
